@@ -8,7 +8,8 @@ I design and build AI products end-to-end — from model behavior and evaluation
 
 - 🐾 **Muse Gadgets Progress Companion** — a desktop-pet companion on Meta's open-source Muse Gadgets SDK that shows my real work progress (face, caption, progress ring) via a small file-based state bridge I designed. Full case study, with an interactive prototype: [read it here](https://muse.ai/s/muse-gadgets-progress-companion-ss5x0yikxrxxxl4). The bridge source is open: see `muse-gadget-state-bridge` below.
 - 🧪 **Agent evaluation work** — building evaluation sets and rubrics from real product behavior to measure how consumer agents actually perform, not how demos say they perform.
-- ♟️ **Symbolic reasoning explorations** — a skill suite for structured/symbolic reasoning tasks, and using board-game systems to probe how agents track state and reason over turns.
+- 🎲 **Board-game agent systems** — using board-game systems to probe how agents track state and reason over turns, explored through Unseen and an agent matrix I built for a board game store (recommendations and rules explanation for in-store customers).
+- ♟️ **Symbolic reasoning explorations** — a skill suite for structured/symbolic reasoning tasks.
 - 🌙 **Unseen** — a consumer agent product I'm currently building and iterating on.
 
 ## Background
